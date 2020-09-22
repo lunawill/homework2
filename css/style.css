@@ -11,6 +11,11 @@ img{
     width: 525px;
 }
 
+div{
+    min-height: 150px;
+    padding: 25px 25px 25px 25px
+}
+
 h1{
     font-size: 64px;
     margin-top: 2px;
@@ -30,25 +35,21 @@ p{
 
 #intro {
     padding: 25px;
-    height: 150px;
     text-align: left;
 }
 
 #red{
     padding: 25px;
-    height: 150px;
     background-color: #ff0000;
     text-align: right;
 }
 #blue{
     padding: 25px;
-    height: 150px;
     background-color: #0000ff;
     text-align: left;
 }
 #yellow{
     padding: 25px;
-    height: 150px;
     background-color: #ffff00;
     text-align: right;
     color: #000000;
@@ -61,7 +62,6 @@ p{
 
 #green{
     padding: 25px;
-    height: 150px;
     background-color: #008000;
     text-align: left;
 }
